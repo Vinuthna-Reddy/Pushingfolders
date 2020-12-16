@@ -14,6 +14,7 @@ namespace gitdemoproj
             Console.WriteLine("adding a new line");
             Program p=new Program();
             p.sayHello();
+            p.PrintWelcome();
         }
     }
 }
