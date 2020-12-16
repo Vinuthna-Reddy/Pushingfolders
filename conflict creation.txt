@@ -1,1 +1,4 @@
 some data or code here
+
+
+a conflict was created in gihub but i am creatin gone in local repo also
