@@ -8,10 +8,10 @@ namespace gitdemoproj
 {
     partial class Program
     {
-        static void Main(string[] args)
+        public void sayHello()
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("adding a new line");
+            Console.WriteLine("Hello");
         }
+       
     }
 }
