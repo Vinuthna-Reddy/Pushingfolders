@@ -8,7 +8,6 @@ C:\Users\Asri\Desktop\Training\specialization\devops-git\gitdemoproj\gitdemoproj
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\bin\Debug\gitdemoproj.exe.config
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\bin\Debug\gitdemoproj.exe
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\bin\Debug\gitdemoproj.pdb
-C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\obj\Debug\gitdemoproj.csprojAssemblyReference.cache
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\obj\Debug\gitdemoproj.csproj.CoreCompileInputs.cache
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\obj\Debug\gitdemoproj.exe
 C:\Users\Asri\Desktop\Training\specialization\devops-git\day2\gitdemoproj\gitdemoproj\obj\Debug\gitdemoproj.pdb

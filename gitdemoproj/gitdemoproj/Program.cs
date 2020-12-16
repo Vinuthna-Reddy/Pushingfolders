@@ -12,6 +12,9 @@ namespace gitdemoproj
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("adding a new line");
+            Program p=new Program();
+            p.sayHello();  
+            p.sayHi();
         }
     }
 }
